@@ -64,7 +64,7 @@ Yet, not all departures from the maxims lead to breakdowns in communication. In 
 
 In another example, when speaker B responds to the question about yesterday’s activities with a seemingly unordered list of events, she’s flouting the maxim of clarity. However, speaker A, aware of the context and their relationship, is able to decipher the implied message despite the lack of clarity.
 
-![pragmatics](![alt text](https://mildredbohorquezpragmatics.weebly.com/uploads/3/8/2/5/38256277/4071165_orig.jpg))
+(![alt text](https://mildredbohorquezpragmatics.weebly.com/uploads/3/8/2/5/38256277/4071165_orig.jpg))
 
 The concept of flouting illustrates that communication isn’t always straightforward; speakers sometimes deviate from linguistic norms for various reasons, such as politeness or maintaining social harmony. These deviations highlight the nuanced nature of human interaction and the multifaceted principles guiding it beyond mere adherence to the Cooperative Principle.
 
@@ -82,4 +82,4 @@ Ultimately, politeness is a pragmatic principle that guides human interactions, 
 In this chapter on pragmatics, we explored how language is used to convey various communicative intentions through speech acts, such as promising, requesting, regretting, and warning. We identified three components of performing a speech act: locution, illocution, and perlocution. Speech acts were classified into five larger classes: declarations, representatives, commissives, directives, and expressives. We discussed direct and indirect speech acts, with the latter being common in many interactions.
 
 Furthermore, we examined the importance of meeting felicity conditions for successful communication and the complexity of understanding utterances, which requires situational, background, and contextual knowledge on the part of the hearer. Lastly, we delved into the principles guiding language use, including cooperation and politeness, which play crucial roles in effective communication.
-![explore](![alt text](https://cdn-images-1.medium.com/v2/resize:fit:853/1*WRGvP-mtCN9alwmh3WF8dw.jpeg))
+(![alt text](https://cdn-images-1.medium.com/v2/resize:fit:853/1*WRGvP-mtCN9alwmh3WF8dw.jpeg))
