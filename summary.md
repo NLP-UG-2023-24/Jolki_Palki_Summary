@@ -13,5 +13,16 @@ In subchapter 3.5, the authors underline the fact that the meaning behind morphe
 ### 3.6 Inflection and derivation  
 In subchapter 3.6, the authors introduce the notion of a lexeme, which is an abstract unit representing a constant meaning for different forms of a word. On the other hand, we have grammatical words, which are said different forms of a lexeme, e.g. ‘bake’ and ‘bakes.’ Affixes, such as -s or -ed, which specifically encode grammatical information, are called inflectional. On the contrary, affixes, such as -er in word ‘baker,’ creates a new lexeme and is called derivational. Inflection includes the plural, past tense, as well as the possessive and progressive forms. The authors conclude that, in English, inflectional affixes are suffixes, whereas derivational affixes are expressed both through the utilization of suffixes and prefixes. Another difference is that derivational affixes carry different meanings that inflectional ones, where the meaning is consistent. Moreover, derivation is restricted by the word-class, whereas inflection is utilized in majority of said classes. Significantly, when an affix is able to change the word-class of a base, it is a derivational one – an inflectional affix does not hold the power to implement such a change.
 
-pragamtics part 2 
-weronika :)
+# PRAGMATICS
+
+#### 6.2.5 Performing Speech Acts Successfully: felicity conditions
+
+### 6.3  Understanding Utterance Meaning
+
+### 6.4 Exploring Pragmatic Principles
+#### 6.4.1 The Cooperative Principle
+
+#### 6.4.2 Politeness
+
+### 6.5 Conclusion
+
