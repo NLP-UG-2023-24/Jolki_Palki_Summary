@@ -78,7 +78,7 @@ The degree of politeness employed in communication can vary based on factors suc
 Ultimately, politeness is a pragmatic principle that guides human interactions, allowing individuals to navigate social situations while maintaining positive social relationships and avoiding conflict.
 
 ### 6.5 Conclusion
-
+ble ble ble
 In this chapter on pragmatics, we explored how language is used to convey various communicative intentions through speech acts, such as promising, requesting, regretting, and warning. We identified three components of performing a speech act: locution, illocution, and perlocution. Speech acts were classified into five larger classes: declarations, representatives, commissives, directives, and expressives. We discussed direct and indirect speech acts, with the latter being common in many interactions.
 
 Furthermore, we examined the importance of meeting felicity conditions for successful communication and the complexity of understanding utterances, which requires situational, background, and contextual knowledge on the part of the hearer. Lastly, we delved into the principles guiding language use, including cooperation and politeness, which play crucial roles in effective communication.
