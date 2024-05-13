@@ -65,13 +65,13 @@ To grasp the meaning, you first decipher the semantic content, then infer the pr
 ### 6.4.1 The Cooperative Principle
 Now let us explore a new scenario. 
 
-A: Hello, how are you?
+**A: Hello, how are you?**
 B: Oh, my legs are aching and I have a pain in my arm, and actu- ally, on top of all this, my cat ran away in the morning, and my neighbour played the guitar till late in the evening. Besides, my sister fell ill and wants me to drive her to the doctor.
-A: Do you know at what time the meeting starts?
+**A: Do you know at what time the meeting starts?**
 B: What a wonderful day we have!
-A: Hhm, dear, what did you do yestarday?
+**A: Hhm, dear, what did you do yestarday?**
 B: Oh, I went to bed, then danced a lot, first I has supper and visited my friend.
-A: When, then, did you manage to get enough sleep?
+**A: When, then, did you manage to get enough sleep?**
 B (**lying**): Absolutely. 
 
 In the dialogue provided, speaker B’s responses deviate from what’s typically expected in a conversation, making it difficult for speaker A to draw proper inferences. Speaker B’s lengthy, irrelevant, ambiguous, and deceptive replies hinder effective communication. However, these deviations can be analyzed through Grice’s Cooperative Principle and its associated maxims.
@@ -94,6 +94,8 @@ When speakers communicate, they often aim to minimize threats to the hearer’s 
 The degree of politeness employed in communication can vary based on factors such as the degree of imposition, power distance, and closeness of the relationship between interlocutors. Generally, the greater the imposition or the higher the social distance, the more indirect and polite the communication is likely to be.
 
 Ultimately, politeness is a pragmatic principle that guides human interactions, allowing individuals to navigate social situations while maintaining positive social relationships and avoiding conflict.
+
+Checkout this (link)[https://youtu.be/N725hNH-NtI?si=_szneHg443Aosbxx]
 
 ### 6.5 Conclusion
 ble ble ble
