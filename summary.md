@@ -95,7 +95,7 @@ The degree of politeness employed in communication can vary based on factors suc
 
 Ultimately, politeness is a pragmatic principle that guides human interactions, allowing individuals to navigate social situations while maintaining positive social relationships and avoiding conflict.
 
-Checkout this (link)[https://youtu.be/N725hNH-NtI?si=_szneHg443Aosbxx]
+Checkout this [link](https://youtu.be/N725hNH-NtI?si=_szneHg443Aosbxx)!
 
 ### 6.5 Conclusion
 ble ble ble
