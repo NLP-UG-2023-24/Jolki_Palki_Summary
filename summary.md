@@ -35,6 +35,8 @@ Significantly, when an affix is able to change the word-class of a base, it is a
 
 # Studying Language in Use: Pragmatics
 
+![speech_acts_image](./speech-act-theory-austin-and-searle.webp)
+
 ## 6.1 Introduction
 - Previous chapters discussed language structure.
 - Question raised: What do speakers use language for and how do they use it?
