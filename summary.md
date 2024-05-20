@@ -38,12 +38,6 @@ This chapter explores how new words are created in English through several key p
 Word-formation refers to the processes by which new words are created in a language. This involves various methods, including the addition of affixes, the combination of words, and changes in word class without morphological change.
 
 ### 3.7.2 Affixation
-This chapter explores how new words are created in English through several key processes.
-
-### 3.7.1 What is Word-formation?
-Word-formation refers to the processes by which new words are created in a language. This involves various methods, including the addition of affixes, the combination of words, and changes in word class without morphological change.
-
-### 3.7.2 Affixation
 Affixation is a common word-formation process where prefixes or suffixes are added to base forms (roots) to create new words. The chapter details:
 
 **Prefixes:** Added to the beginning of a word (e.g., "un-" in "unhappy").
