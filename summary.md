@@ -16,8 +16,6 @@ Importantly, the morpheme responsible for providing a basis for other morphemes 
 ### 3.4 Morphological analysis
 In subchapter 3.4, the authors focus on the morphological analysis of words, which can be expressed through a **tree diagram**. 
 
-![tree diagram](https://www.researchgate.net/profile/Lori-Buchanan-2/publication/228512625/figure/fig1/AS:651497872310272@1532340605833/Two-morphological-trees-corresponding-to-two-interpretations-of-the-ambiguous-word.png)
-
 In order to illustrate a correct diagram, it is significant to draw attention not only to the types of morphemes we are dealing with, but also to the order in which they attach to the base. What is more, helpful in establishing such a diagram is the meaning that the units carry, e.g. _‘unfear’_ versus _‘fearful_._’_ The first word carries no meaning, therefore such order makes no sense when drawing a tree diagram for the word _‘unfearful_._’_ According to the authors, it is also important to note what affixes attach to different word-classes.
 ### 3.5 Allomorphs
 In subchapter 3.5, the authors underline the fact that the meaning behind morphemes may be expressed through more than one physical form, e.g. indefinite articles. Such case portrays the notion of an [**allomorph**](https://www.britannica.com/topic/allomorph), in which instance the same morpheme can be realized by the utilization of different morphs. The distribution of allomorphs differs due to phonological conditioning and is mostly predictable.
@@ -32,12 +30,6 @@ In subchapter 3.6, the authors introduce the notion of a **lexeme**, which is an
 Significantly, when an affix is able to change the word-class of a base, it is a derivational one – an inflectional affix does not hold the power to implement such a change.
 
 ### Chapter 3.7: Word-formation
-This chapter explores how new words are created in English through several key processes.
-
-### 3.7.1 What is Word-formation?
-Word-formation refers to the processes by which new words are created in a language. This involves various methods, including the addition of affixes, the combination of words, and changes in word class without morphological change.
-
-### 3.7.2 Affixation
 This chapter explores how new words are created in English through several key processes.
 
 ### 3.7.1 What is Word-formation?
