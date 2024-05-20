@@ -33,6 +33,56 @@ Significantly, when an affix is able to change the word-class of a base, it is a
 
 # PRAGMATICS
 
+# Studying Language in Use: Pragmatics
+
+![speech_acts_image](./speech-act-theory-austin-and-searle.webp)
+
+## 6.1 Introduction
+- Previous chapters discussed language structure.
+- Question raised: What do speakers use language for and how do they use it?
+- Speakers have intentions: stating, promising, declaring, requesting.
+- Listeners interpret these intentions.
+- Pragmatics studies these communicative intentions and how they are conveyed and understood.
+
+## 6.2 Expressing Intentions Through Language
+
+### 6.2.1 Using Language to Act: Speech Acts
+- Language is used to perform actions (e.g., commanding, stating, promising).
+- John L. Austin's Speech Act Theory: linguistic actions in context are called speech acts.
+- Example analysis: "I’ll phone you tomorrow" (promising), "I baptise thee Alexander Frederic" (baptizing).
+- Incomplete sentences (e.g., "Well, I mean there was a…") do not perform clear actions.
+
+### 6.2.2 Speech Acts: A Closer Look
+- Example: "What a delicious pie!" expresses a compliment.
+- Speech acts consist of:
+  - **Locution**: linguistic form.
+  - **Illocution**: communicative intention.
+  - **Perlocution**: effect on the hearer.
+- Utterance vs. Sentence: utterances are realizations of communicative intentions, may not always be complete sentences.
+
+### 6.2.3 Classifying Speech Acts
+- Different intentions (e.g., promising, commanding) create diverse speech acts.
+- John Searle’s classification of speech acts:
+  - **Declarations**: change the state of affairs (e.g., "You are fired.").
+  - **Representatives/Assertives**: state what the speaker believes (e.g., "Our team has won the competition.").
+  - **Expressives**: express feelings (e.g., "I apologise for this awful mess.").
+  - **Directives**: make the hearer do something (e.g., "Be quiet, Jaye.").
+  - **Commissives**: commit the speaker to an action (e.g., "I’ll bring you a map of London.").
+- Classification can be complex due to context and multiple intentions (e.g., threats as both commissive and directive).
+
+### 6.2.4 Realisations of Speech Acts: Direct and Indirect Speech Acts
+- Illocutions can be direct (e.g., "I advise you to see a doctor.") or indirect (e.g., "Why don’t you see a doctor?").
+- Direct speech acts: straightforward relation between form and function.
+- Indirect speech acts: mismatch between form and function.
+- Indirect speech acts are often used for politeness.
+- Effectiveness of speech acts depends on context and clarity of the intended message.
+
+## Conclusion
+- Pragmatics involves understanding how language is used to express intentions.
+- Speech acts are key to this understanding, with diverse types and forms.
+- Context is crucial in interpreting and classifying speech acts.
+
+
 ### 6.2.5 Performing Speech Acts Successfully: felicity conditions
 
 Now let's at new examples to understand felicitty conditions!
