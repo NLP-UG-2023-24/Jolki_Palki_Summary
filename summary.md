@@ -31,6 +31,42 @@ In subchapter 3.6, the authors introduce the notion of a **lexeme**, which is an
 
 Significantly, when an affix is able to change the word-class of a base, it is a derivational one – an inflectional affix does not hold the power to implement such a change.
 
+### Chapter 3.7: Word-formation
+This chapter explores how new words are created in English through several key processes.
+
+### 3.7.1 What is Word-formation?
+Word-formation refers to the processes by which new words are created in a language. This involves various methods, including the addition of affixes, the combination of words, and changes in word class without morphological change.
+
+### 3.7.2 Affixation
+Affixation is a common word-formation process where prefixes or suffixes are added to base forms (roots) to create new words. The chapter details:
+
+**Prefixes:** Added to the beginning of a word (e.g., "un-" in "unhappy").
+**Suffixes:** Added to the end of a word (e.g., "-ness" in "happiness").
+The impact of affixation on the meaning and grammatical category of the base word.
+
+### 3.7.3 Compounding
+Compounding involves combining two or more words to create a new word with a specific meaning. The chapter explains:
+
+Types of compounds: Such as noun-noun compounds (e.g., "toothpaste"), adjective-noun compounds (e.g., "blackboard"), and verb-noun compounds (e.g., "pickpocket").
+The structure and stress patterns of compounds in English.
+How compounds differ from phrases in terms of meaning and pronunciation.
+
+### 3.7.4 Conversion
+Conversion, or zero derivation, changes the word class of an existing word without any morphological change. Examples include:
+
+**Noun to verb:** "to butter" (from the noun "butter").
+**Verb to noun:** "a run" (from the verb "to run").
+This process is frequent in English and contributes significantly to its lexicon.
+
+### 3.7.5 Shortening
+Shortening includes processes like clipping and acronyms, where parts of words are omitted to form new terms. The chapter covers:
+
+**Clipping:** Shortening longer words (e.g., "advertisement" to "ad").
+**Acronyms and initialisms:** Formed from the initial letters of a phrase (e.g., "NASA" for National Aeronautics and Space Administration).
+
+### Chapter 3.8: Conclusion
+The conclusion of Chapter 3 summarizes the importance of understanding word-formation processes in linguistic analysis. It emphasizes how these processes contribute to the dynamic and evolving nature of the English lexicon, reflecting both linguistic creativity and the adaptability of the language to new concepts and technologies.
+
 # PRAGMATICS
 
 # Studying Language in Use: Pragmatics
