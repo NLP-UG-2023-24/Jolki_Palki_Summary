@@ -6,23 +6,29 @@
  ![morphemes](https://fivefromfive.com.au/wp-content/uploads/2022/12/Screen-Shot-2022-12-15-at-4.24.36-pm-1024x290.png)
  In subchapter 3.2, the authors differentiate between a **morphological** and **phonological** structure. On the example of the word _“dreamless_,_”_ they prove that in morphology each element of the word has its own meaning, whereas in phonology, the different phonemes have no distinct meaning. Thus, morphology focuses more on the meanings of individual morphemes – the smallest meaningful units of a word. Importantly, to be considered a word, a unit must be a morpheme, otherwise it has nothing to do with morphology. 
  
- The authors then distinguish between two types of words: **monomorphemic/simplex words** and **polymorphemic/complex words**. The former group consists of only one morpheme, whereas the latter – more than one morpheme. Another group of morphemes called unique morphemes pertains to words such as _‘cranberry_,_’_ in which the morpheme _‘cran’_ is still considered a morpheme, though it does not carry meaning on its own. The authors then move on to **_the conflict_** between etymology and morphology, underlining that these branches ought not to be confused with one another. Moreover, they introduce a new term regarding the form of a word – **morph**. An important process in morphology is the vowel alternation, in which the plural form of a word is expressed by changing the vowel. When a word does not undergo vowel alternation or has no visible form expressing plurality, it is called a zero morph.
- ### 3.3 Types of morphemes
+The authors then distinguish between two types of words: **monomorphemic/simplex words** and **polymorphemic/complex words**. The former group consists of only one morpheme, whereas the latter – more than one morpheme. Another group of morphemes called unique morphemes pertains to words such as _‘cranberry_,_’_ in which the morpheme _‘cran’_ is still considered a morpheme, though it does not carry meaning on its own. The authors then move on to **_the conflict_** between etymology and morphology, underlining that these branches ought not to be confused with one another. Moreover, they introduce a new term regarding the form of a word – **morph**. An important process in morphology is the vowel alternation, in which the plural form of a word is expressed by changing the vowel. When a word does not undergo vowel alternation or has no visible form expressing plurality, it is called a zero morph.
+
+### 3.3 Types of morphemes
+
 In subchapter 3.3, the authors highlight the difference between **free morphemes**, which can stand on their own, as well as **bound morphemes**, which need another element to exist as a part of a word. 
 
 ![morphemes](https://semanticsmorphology.weebly.com/uploads/4/8/2/6/48264907/2443643.png?999)
 
 Importantly, the morpheme responsible for providing a basis for other morphemes are called **bases**. Words derived from a base are called **derivatives**, e.g. _‘agree’_ and _‘disagreement_._’_ Bases consisting of two morphemes are complex words, whilst bases consisting of one morpheme – the core element – are deemed roots. The authors then underline the notion of an **affix**, a morpheme attached to bases, and its two groups: **_prefixes_**, appearing at the beginning of a word, and **_suffixes_**, in the end. A less popular type of an affix is an **_infix_**, which is implemented into the base.
+
 ### 3.4 Morphological analysis
+
 In subchapter 3.4, the authors focus on the morphological analysis of words, which can be expressed through a **tree diagram**. 
 
 ![tree diagram](https://www.researchgate.net/profile/Lori-Buchanan-2/publication/228512625/figure/fig1/AS:651497872310272@1532340605833/Two-morphological-trees-corresponding-to-two-interpretations-of-the-ambiguous-word.png)
 
 In order to illustrate a correct diagram, it is significant to draw attention not only to the types of morphemes we are dealing with, but also to the order in which they attach to the base. What is more, helpful in establishing such a diagram is the meaning that the units carry, e.g. _‘unfear’_ versus _‘fearful_._’_ The first word carries no meaning, therefore such order makes no sense when drawing a tree diagram for the word _‘unfearful_._’_ According to the authors, it is also important to note what affixes attach to different word-classes.
+
 ### 3.5 Allomorphs
 In subchapter 3.5, the authors underline the fact that the meaning behind morphemes may be expressed through more than one physical form, e.g. indefinite articles. Such case portrays the notion of an [**allomorph**](https://www.britannica.com/topic/allomorph), in which instance the same morpheme can be realized by the utilization of different morphs. The distribution of allomorphs differs due to phonological conditioning and is mostly predictable.
 
 The authors distinguish between two more types of conditioning: **lexical** and **morphological**. When it comes to realisations of morphemes, they can be either regular or irregular e.g. the former is the case of plural _-s_, whereas the latter illustrates the expression of plurality in a different way.
+
 ### 3.6 Inflection and derivation  
 In subchapter 3.6, the authors introduce the notion of a **lexeme**, which is an abstract unit representing a constant meaning for different forms of a word. On the other hand, we have grammatical words, which are said different forms of a lexeme, e.g. _‘bake’_ and _‘bakes.’_ Affixes, such as _-s_ or _-ed_, which specifically encode grammatical information, are called **inflectional**. On the contrary, affixes, such as _-er_ in word _‘baker_,_’_ creates a new lexeme and is called **derivational**. Inflection includes the plural, past tense, as well as the possessive and progressive forms. The authors conclude that, in English:
 * inflectional affixes are suffixes, whereas derivational affixes are expressed both through the utilization of suffixes and prefixes.
@@ -32,12 +38,6 @@ In subchapter 3.6, the authors introduce the notion of a **lexeme**, which is an
 Significantly, when an affix is able to change the word-class of a base, it is a derivational one – an inflectional affix does not hold the power to implement such a change.
 
 ### Chapter 3.7: Word-formation
-This chapter explores how new words are created in English through several key processes.
-
-### 3.7.1 What is Word-formation?
-Word-formation refers to the processes by which new words are created in a language. This involves various methods, including the addition of affixes, the combination of words, and changes in word class without morphological change.
-
-### 3.7.2 Affixation
 This chapter explores how new words are created in English through several key processes.
 
 ### 3.7.1 What is Word-formation?
@@ -199,3 +199,4 @@ In this chapter on pragmatics, we explored how language is used to convey variou
 
 Furthermore, we examined the importance of meeting felicity conditions for successful communication and the complexity of understanding utterances, which requires situational, background, and contextual knowledge on the part of the hearer. Lastly, we delved into the principles guiding language use, including cooperation and politeness, which play crucial roles in effective communication.
 ![alt text](https://cdn-images-1.medium.com/v2/resize:fit:853/1*WRGvP-mtCN9alwmh3WF8dw.jpeg)
+
