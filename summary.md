@@ -133,17 +133,18 @@ d. If you leave the bathroom in this awful state again, I will kill you. (a wife
 
 In the examples provided, the speakers intend to convey threats as their speech acts. However, each example presents challenges to the success of the threats due to various factors.
 
-In (1a), the threat is ineffective because the hearer doesn’t understand English, rendering the illocutionary force incomprehensible. This highlights the importance of the general condition: the necessity for the hearer to understand the locution.
+- In (1a), the threat is ineffective because the hearer doesn’t understand English, rendering the illocutionary force incomprehensible. This highlights the importance of the general condition: the necessity for the hearer to understand the locution.
 
-(1b) fails as a threat because it refers to a past action (“I resigned”), which cannot effectively threaten future consequences. This illustrates the propositional content condition: the requirement for the speech act to convey its intended meaning clearly and properly.
+- (1b) fails as a threat because it refers to a past action (“I resigned”), which cannot effectively threaten future consequences. This illustrates the propositional content condition: the requirement for the speech act to convey its intended meaning clearly and properly.
 
-In (1c), although the threat is about a future action and properly conveyed, it fails because the consequence mentioned (buying ice-cream) is something pleasant for the child. This reveals that for a threat to be successful, the future action must be unpleasant for the hearer.
+- In (1c), although the threat is about a future action and properly conveyed, it fails because the consequence mentioned (buying ice-cream) is something pleasant for the child. This reveals that for a threat to be successful, the future action must be unpleasant for the hearer.
 
-Regarding (1d), the threat lacks sincerity because it’s highly unlikely that the wife genuinely intends to kill her husband over a minor issue. This demonstrates the importance of sincerity condition: the necessity for the speaker to earnestly intend to carry out the speech act.
+- Regarding (1d), the threat lacks sincerity because it’s highly unlikely that the wife genuinely intends to kill her husband over a minor issue. This demonstrates the importance of sincerity condition: the necessity for the speaker to earnestly intend to carry out the speech act.
 
 Additionally, there’s an essential condition for successful speech acts: both the speaker and the hearer must regard the utterance as the realization of the intended speech act. This essential condition ensures mutual recognition and understanding between the interlocutors.
 
 Overall, felicity conditions, including the general condition, propositional content condition, sincerity condition, and essential condition, play crucial roles in determining the success of speech acts. Misunderstandings often arise when these conditions are not adequately met, highlighting the importance of context and mutual comprehension in communication.
+
 ### 6.3  Understanding Utterance Meaning
 Understanding [utterances](https://dictionary.cambridge.org/dictionary/english/utterance) involves intricate processes that occur rapidly, often without conscious awareness. Imagine entering a coffee shop with a friend who’s aware of your nut allergy. They point out a cake, saying, “That cake over there contains nuts.” 
 ![nuts](https://previews.agefotostock.com/previewimage/medibigoff/31a86f4ed0051cafef95beabfeaa4d23/esy-022288968.jpg)
@@ -189,5 +190,5 @@ Checkout this [link](https://youtu.be/N725hNH-NtI?si=_szneHg443Aosbxx)!
 
 In this chapter on pragmatics, we explored how language is used to convey various communicative intentions through speech acts, such as promising, requesting, regretting, and warning. We identified three components of performing a speech act: locution, illocution, and perlocution. Speech acts were classified into five larger classes: declarations, representatives, commissives, directives, and expressives. We discussed direct and indirect speech acts, with the latter being common in many interactions.
 
-Furthermore, we examined the importance of meeting felicity conditions for successful communication and the complexity of understanding utterances, which requires situational, background, and contextual knowledge on the part of the hearer. Lastly, we delved into the principles guiding language use, including cooperation and politeness, which play crucial roles in effective communication.
+Furthermore, we examined the importance of meeting felicity conditions for successful communication and the complexity of understanding utterances, which requires situational, background, and contextual knowledge on the part of the hearer. Lastly, we delved into the principles guiding language use, including cooperation and politeness, which play crucial roles in effective communication.\
 ![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThqY3J1YzA1anh2eTRyNGhlM3RxNDkzMXd1OXFvcjdkeng2bXQ1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5OPIlNp8fHQbATsvC/giphy.gif)
